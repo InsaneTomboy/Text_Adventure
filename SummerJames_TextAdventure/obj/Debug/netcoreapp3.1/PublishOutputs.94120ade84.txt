@@ -1,0 +1,5 @@
+C:\Users\summe\School Shit\CSharp\TextAdventure_Build\SummerJames_TextAdventure.exe
+C:\Users\summe\School Shit\CSharp\TextAdventure_Build\SummerJames_TextAdventure.dll
+C:\Users\summe\School Shit\CSharp\TextAdventure_Build\SummerJames_TextAdventure.deps.json
+C:\Users\summe\School Shit\CSharp\TextAdventure_Build\SummerJames_TextAdventure.runtimeconfig.json
+C:\Users\summe\School Shit\CSharp\TextAdventure_Build\SummerJames_TextAdventure.pdb
